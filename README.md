@@ -327,6 +327,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Gaming data and Game Development tools.
 
+- <img src="https://cdn.simpleicons.org/roblox/E2231A" height="14"/> [Tripwire](https://github.com/aliboIly/Tripwire) - MCP for Roblox Studio and Open Cloud. Read/write/edit the data model and drive playtests with simulated input, plus headless tests-as-code in the real engine via Open Cloud and a static security reviewer that flags client-trust exploits in game code. Rust server, roblox-ts plugin.
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/IvanMurzak/Unity-MCP)<sup><sup>1</sup></sup> - Tools for Unity Editor and for a game made with Unity
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [UnityEngine](https://github.com/CoderGamester/mcp-unity)<sup><sup>2</sup></sup> - Unity3d Game Engine integration for game development
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/codemaestroai/advanced-unity-mcp)<sup><sup>3</sup></sup> - Advanced Unity MCP from Code Maestro. Build, debug, profile, and manage assets, scenes, and scripts with natural language via MCP.
